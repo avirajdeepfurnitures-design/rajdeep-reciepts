@@ -680,7 +680,7 @@ function generatePDF(receipt) {
 
   // Logo — reduced width centered
   try {
-    const logoW = (W - PL - PL) * 0.875;
+    const logoW = (W - PL - PL) * 0.80;
     const logoX = (W - logoW) / 2;
     doc.addImage(LOGO_DATA_URI, 'JPEG', logoX, 2, logoW, 26);
   } catch(e) {
