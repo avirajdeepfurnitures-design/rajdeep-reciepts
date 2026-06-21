@@ -1,22 +1,14 @@
 {
-  "name": "Rajdeep Furnitures \u2013 Receipt Manager",
+  "name": "Rajdeep Furnitures – Receipt Manager",
   "short_name": "RF Receipts",
   "description": "Customer receipt manager for Rajdeep Furnitures, Alwar",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#fdf6ee",
-  "theme_color": "#5c2500",
+  "background_color": "#f0f7f4",
+  "theme_color": "#0d2240",
   "orientation": "portrait",
   "icons": [
-    {
-      "src": "logo.jpg",
-      "sizes": "192x192",
-      "type": "image/jpeg"
-    },
-    {
-      "src": "logo.jpg",
-      "sizes": "512x512",
-      "type": "image/jpeg"
-    }
+    { "src": "logo.jpg", "sizes": "192x192", "type": "image/jpeg" },
+    { "src": "logo.jpg", "sizes": "512x512", "type": "image/jpeg" }
   ]
 }
